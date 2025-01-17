@@ -1,3 +1,6 @@
+<html>
+<body>
+
 # Lab 1-2 
 
 ***Instructions*** 
@@ -35,3 +38,5 @@ And then we can use ```cd Lab1-2``` to change into the directory.
 ![using mkdir command](/images/Lab1-2/Sixth.png)
 
 <center style="font-style: italic;"><u>Fig 1.6</u> 3 directories created using 1 command</center>
+</body>
+</html>
