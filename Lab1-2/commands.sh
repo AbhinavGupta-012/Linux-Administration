@@ -1,4 +1,4 @@
-# This commands will run automatically!
+# These commands will run automatically!
 
 # Creating song1.mp3 to song6.mp3 files
 touch song{1..6}.mp3
